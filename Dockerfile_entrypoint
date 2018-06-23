@@ -1,0 +1,3 @@
+FROM ubuntu
+MAINTAINER deepanvcog@gmail.com
+ENTRYPOINT ["pwd"]
